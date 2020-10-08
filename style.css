@@ -118,13 +118,13 @@ body {
 }
 
 #address{
-    padding-top: -10px;
-    text-shadow: 4px 4px #230658
+    padding-top: 20px;
+    text-shadow: 3px 2px #230658
     
 }
 
 #nameshadow{
-    text-shadow: 4px 4px #390c80
+    text-shadow: 3px 2px #390c80
 }
 
 h2{
@@ -209,7 +209,7 @@ transform: scale(0.9);
 }
 
 .site-title{
-    text-shadow: 5px 4px #070707
+    text-shadow: 4px 3px #280781
 
 }
 
